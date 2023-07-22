@@ -10,7 +10,7 @@ Frontend Mentor is an awesome platform that provides real-world projects for web
 
 I've been working diligently to improve my web development skills by taking on the challenges offered by Frontend Mentor. Below you'll find a list of the challenges I've completed so far along with the links to the live previews and my solutions:
 
-1. **Challenge 1: Results summary component** - [Link to Live Preview]([link-to-live-preview](https://results-summary-component-challenge.netlify.app/)) - [Link to My Solution]([link-to-your-solution](https://github.com/Arsalan40/Front-end-Mentor-Challenges/tree/main/results-summary-component-main))
+1. **Challenge 1: Results summary component** - [Link to Live Preview](https://results-summary-component-challenge.netlify.app/) - [Link to My Solution](https://github.com/Arsalan40/Front-end-Mentor-Challenges/tree/main/results-summary-component-main)
 
 ... follow me to view as I'm continuing to add more challenges as I will complete them.
 
